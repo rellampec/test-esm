@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "nodehun": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rellampec/test-esm.git"
   }
 }
